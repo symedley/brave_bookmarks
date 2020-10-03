@@ -52,6 +52,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println();
         System.out.println("Exit Brave browser");
         System.out.println("Then press enter");
         in.readLine();
